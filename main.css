@@ -1,0 +1,38 @@
+body{
+    background-color: aquamarine
+    font-family: verdana;
+}
+
+
+.product{
+    display:flex;
+    flex-wrap:wrap;
+    
+    /* display flex only in parent */
+}
+
+.discription-1{
+    font-size:14px;
+
+}
+.main-title{
+    text-align: center;
+}
+
+.product-1{
+    width:30%;
+    margin:1%;
+    border: 1px solid lightblue;
+    box-shadow: -webkit-box-shadow: 10px 9px 5px -6px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 9px 5px -6px rgba(0,0,0,0.75);
+    box-shadow: 10px 9px 5px -6px rgba(0,0,0,0.75);
+
+}
+
+
+.productImage-1{
+    width:30%;
+    margin:1%;
+    
+    
+}
