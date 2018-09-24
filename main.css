@@ -1,8 +1,8 @@
 body{
-    background-color: aquamarine
+    background-color: crimson
     font-family: verdana;
-}
 
+}
 
 .product{
     display:flex;
@@ -29,10 +29,8 @@ body{
 
 }
 
-
 .productImage-1{
     width:30%;
     margin:1%;
     
     
-}
